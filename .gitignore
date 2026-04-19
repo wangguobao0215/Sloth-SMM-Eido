@@ -1,23 +1,40 @@
+# 系统文件
 .DS_Store
 Thumbs.db
 desktop.ini
 
+# 编辑器
 .idea/
 .vscode/
 *.swp
 *.swo
+*~
 
+# 私有文件（绝对不能提交）
+*设计方案*.md
+*评审*.md
+*开发计划*.md
+*参考资料*.md
+*设计文档*.md
+*.private.*
+.env
+credentials.*
+
+# 运行时
 __pycache__/
 *.pyc
 *.pyo
-.env
-
 node_modules/
 
+# 构建产物
 *.skill
 dist/
 
+# 项目特定
 publish-log.json
 
+# 临时文件
 *.tmp
 *.bak
+*.log
+output/
