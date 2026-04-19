@@ -1,6 +1,19 @@
-# Sloth-SMM-Eido (Community Edition)
+<p align="center">
+  <img src="assets/sloth-avatar-round.png" width="120" />
+</p>
 
-> 自媒体全流程运营 SKILL — 从选题策划到多平台发布的一站式内容创作流水线（社区版）
+<h1 align="center">Sloth-SMM-Eido</h1>
+
+<p align="center">
+  <strong>自媒体全流程运营 Skill（社区版）</strong><br/>
+  从选题策划到多平台发布的一站式内容创作流水线
+</p>
+
+<p align="center">
+  <img src="assets/qrcode.jpg" width="140" /><br/>
+  <sub>扫码关注 <strong>树懒老K</strong> · 获取更多 AI 技能</sub><br/>
+  <em>慢一点，深一度</em>
+</p>
 
 [![QoderWork Skill](https://img.shields.io/badge/QoderWork-Skill-blue)](https://docs.qoder.com/qoderwork/introduction)
 [![Version](https://img.shields.io/badge/version-1.0.0-green)]()
