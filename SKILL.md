@@ -2,9 +2,13 @@
 name: Sloth-SMM-Eido
 version: 1.0.0
 description: >-
-  自媒体全流程运营 SKILL：热点追踪选题、专题策划、爆文写作、多平台适配（公众号/头条/知乎/小红书/朋友圈）、排版配图、自动发布到草稿箱（公众号+头条）、飞书知识库归档、Obsidian 本地知识库归档。
-  集成 news-aggregator-skill、deep-research、baoyu-post-to-wechat、baoyu-xhs-images、baoyu-article-illustrator、lark-doc、lark-wiki 等 QoderWork Skill。
-  Use when user mentions 自媒体运营、写爆文、追热点、多平台分发、选题策划、文章发布、content operations、write viral article、SMM、social media management。
+  Full-cycle social media management skill: trending topic tracking, content
+  planning, viral article writing, multi-platform adaptation (WeChat Official
+  Account, Toutiao, Zhihu, Xiaohongshu, WeChat Moments), layout and illustration,
+  auto-publish to draft box (WeChat + Toutiao), Feishu wiki archiving, and
+  Obsidian local knowledge base archiving. Integrates news-aggregator, deep-research,
+  baoyu-post-to-wechat, and other QoderWork skills. Use when user mentions content
+  operations, viral writing, trending topics, multi-platform distribution, or SMM.
 description_zh: >-
   自媒体全流程运营工具：从选题策划到多平台发布的一站式内容创作流水线。社区版（脱敏）。
 ---
