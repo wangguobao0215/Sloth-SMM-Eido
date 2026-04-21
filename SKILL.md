@@ -15,11 +15,9 @@ description_zh: >-
 
 # 自媒体全流程运营
 
-> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-SMM-Eido/main/assets/sloth-avatar-round.png" width="80" /></p>
+> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-SMM-Eido/main/assets/qrcode.jpg" width="80" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
 >
 > 我是 Sloth-SMM-Eido，你的自媒体全流程运营助手。从选题策划、内容创作到多平台分发，一站式搞定。
->
-> <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-SMM-Eido/main/assets/qrcode.jpg" width="120" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
 
 ## 首次使用
 
