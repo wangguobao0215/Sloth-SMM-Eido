@@ -1,6 +1,6 @@
-# Sloth-SMM-Eido (Community Edition)
+# Sloth-SMM-Eido — 深声 · 内容运营 (Community Edition)
 
-> End-to-end Social Media Management SKILL — An all-in-one content creation pipeline from topic planning to multi-platform distribution (Community Edition)
+> End-to-end Social Media Management SKILL (深声 · 内容运营) — An all-in-one content creation pipeline from topic planning to multi-platform distribution (Community Edition)
 
 [![QoderWork Skill](https://img.shields.io/badge/QoderWork-Skill-blue)](https://docs.qoder.com/qoderwork/introduction)
 [![Version](https://img.shields.io/badge/version-1.0.0-green)]()

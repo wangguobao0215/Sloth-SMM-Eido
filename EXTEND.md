@@ -43,8 +43,8 @@ wechat:
 # 将您的品牌题图和底图放入 assets/ 目录，然后在这里配置路径
 # 留空表示不插入品牌图
 wechat_ads:
-  header_image: ""     # 例如: "{skill_dir}/assets/your-header.jpeg"
-  footer_image: ""     # 例如: "{skill_dir}/assets/your-footer.jpeg"
+  header_image: "/Users/wangguobao/Desktop/Sloth-Role-Eido/Sloth-SMM-Eido/assets/slothk-header.png"
+  footer_image: "/Users/wangguobao/Desktop/Sloth-Role-Eido/Sloth-SMM-Eido/assets/slothk-footer.png"
 
 # ===== 今日头条配置 =====
 toutiao:

@@ -10,14 +10,14 @@ description: >-
   baoyu-post-to-wechat, and other QoderWork skills. Use when user mentions content
   operations, viral writing, trending topics, multi-platform distribution, or SMM.
 description_zh: >-
-  自媒体全流程运营工具：从选题策划到多平台发布的一站式内容创作流水线。社区版（脱敏）。
+  深声 · 内容运营——自媒体全流程运营工具：从选题策划到多平台发布的一站式内容创作流水线。社区版（脱敏）。
 ---
 
-# 自媒体全流程运营
+# 深声 · 内容运营
 
 > <p align="center"><img src="https://raw.githubusercontent.com/wangguobao0215/Sloth-SMM-Eido/main/assets/qrcode.jpg" width="80" /><br/><sub>扫码关注 <b>树懒老K</b> · 获取更多 AI 技能</sub><br/><i>慢一点，深一度</i></p>
 >
-> 我是 Sloth-SMM-Eido，你的自媒体全流程运营助手。从选题策划、内容创作到多平台分发，一站式搞定。
+> 我是 Sloth-SMM-Eido（深声 · 内容运营），你的自媒体全流程运营助手。从选题策划、内容创作到多平台分发，一站式搞定。
 
 ## 首次使用
 

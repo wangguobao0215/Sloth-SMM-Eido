@@ -1,7 +1,7 @@
 name: Sloth-SMM-Eido
 version: 1.0.0
 description: >-
-  自媒体全流程运营 SKILL（社区版）：热点追踪选题、专题策划、爆文写作、多平台适配、排版配图、自动发布。
+  深声 · 内容运营 SKILL（社区版）：热点追踪选题、专题策划、爆文写作、多平台适配、排版配图、自动发布。
   集成 news-aggregator-skill、deep-research、baoyu-post-to-wechat、baoyu-xhs-images、
   baoyu-article-illustrator、lark-doc、lark-wiki 等 QoderWork Skill。
 author: Sloth-SMM-Eido Community

@@ -5,7 +5,7 @@
 <h1 align="center">Sloth-SMM-Eido</h1>
 
 <p align="center">
-  <strong>自媒体全流程运营 Skill（社区版）</strong><br/>
+  <strong>深声 · 内容运营 Skill（社区版）</strong><br/>
   从选题策划到多平台发布的一站式内容创作流水线
 </p>
 
@@ -21,9 +21,13 @@
 
 [English](README_EN.md) | 中文
 
+## 品名释义
+
+> **深声**——「深」取自树懒老K品牌哲学「慢一点，深一度」，「声」意为发声、传播。好内容不是流量噪音，而是有深度的声音。深声，让每一次内容输出都掷地有声、深入人心。
+
 ## 简介
 
-Sloth-SMM-Eido 是一个基于 QoderWork 的自媒体全流程运营 SKILL，覆盖从选题策划、内容创作到多平台分发的完整工作流。
+Sloth-SMM-Eido 是一个基于 QoderWork 的深声 · 内容运营 SKILL，覆盖从选题策划、内容创作到多平台分发的完整工作流。
 
 **这是社区版（Community Edition）**，已脱敏处理，不含任何个人品牌素材和私有配置。您可以直接使用并根据自己的需求自定义。
 
