@@ -207,10 +207,27 @@ Step 2-5  同场景一的 Step 2-5
 |   ├── zhihu.md               # 知乎适配版
 |   ├── xiaohongshu.md         # 小红书文案
 |   ├── moments.md             # 朋友圈文案 + 配图建议
-|   ├── images/                # 配图目录
+|   ├── images/                # 配图目录（正文配图 + 封面图）
+|   |   ├── 01-*.png           # 正文配图，按顺序编号
+|   |   ├── cover.png          # 封面图（公众号/头条共用）
+|   |   └── ...
 |   └── xhs-images/            # 小红书图卡目录
+|       ├── 01-cover-*.png     # 小红书封面图
+|       └── ...
 └── publish-log.json           # 发布日志
 ```
+
+**images/ 目录命名约定**：
+- `cover.png` — 文章封面图（公众号/头条发布时使用）
+- `01-*.png` / `02-*.png` — 正文配图，按在文章中出现的顺序编号
+- `brand-header.jpeg` / `brand-footer.jpeg` — 品牌题图/底图（如 EXTEND.md 中配置，仅公众号使用）
+- **区分原则**：images/ 存放文章内容相关配图（由 baoyu-article-illustrator 生成）；品牌图（由用户提供）存放在 assets/ 或按 EXTEND.md 中 `wechat_ads` 配置的路径管理
+
+**Obsidian 归档说明**：
+- 工作目录输出所有平台版本文件（wechat.md、toutiao.md、zhihu.md、xiaohongshu.md、moments.md）
+- Obsidian 仅归档需要手动发布的平台版本（zhihu.md、xiaohongshu.md、moments.md）和母版（master.md）
+- 公众号（wechat.md）和头条（toutiao.md）已通过自动化发布到草稿箱，不归档到 Obsidian
+- 如需在 Obsidian 中查看已自动发布的版本，可手动从工作目录复制
 
 ---
 
