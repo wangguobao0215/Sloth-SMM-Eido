@@ -111,6 +111,14 @@ Sloth-SMM-Eido/
 
 See [CHANGELOG.md](CHANGELOG.md).
 
+## Documentation
+
+- [User Guide](references/user-guide.md) — Complete feature guide, workflows, and best practices (Chinese)
+
+## Version
+
+Current version: 1.0.0
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

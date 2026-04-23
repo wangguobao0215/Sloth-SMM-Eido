@@ -142,6 +142,14 @@ Sloth-SMM-Eido/
 
 详见 [CHANGELOG.md](CHANGELOG.md)。
 
+## 文档
+
+- [用户使用指南](references/user-guide.md) — 完整的功能说明、使用流程与最佳实践
+
+## 版本
+
+当前版本：1.0.0
+
 ## 许可证
 
 本项目基于 [MIT License](LICENSE) 开源。
