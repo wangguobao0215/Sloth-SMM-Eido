@@ -1,5 +1,5 @@
 ---
-name: Sloth-SMM-Eido
+name: sloth-smm-eido
 version: 1.0.0
 description: >-
   Full-cycle social media management skill: trending topic tracking, content
